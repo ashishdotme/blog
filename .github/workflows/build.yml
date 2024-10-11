@@ -31,7 +31,7 @@ jobs:
           deno-version: v1.x
 
       - name: Run fetcher script
-        run: deno run -A build.ts
+        run: deno run -A scripts/build.ts
 
       - name: Commit and push changes
         run: |
