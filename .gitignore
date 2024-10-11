@@ -1,0 +1,14 @@
+node_modules
+
+/.cache
+/build
+.env
+.dev.vars
+
+.wrangler
+const.ts
+/files
+
+.DS_Store
+
+package-lock.json
