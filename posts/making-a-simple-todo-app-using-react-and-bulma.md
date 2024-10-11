@@ -3,7 +3,7 @@ title: Making a simple todo app using react and bulma
 slug: making-a-simple-todo-app-using-react-and-bulma
 date: "2018-10-27"
 topic: coding
-tags: ["react", "frontend", "redux", "asfgsa", "ASga"]
+tags: ["react", "frontend", "redux"]
 ---
 
 Redux is now the famous state management library but it can be overwhelming.
