@@ -27,17 +27,11 @@ jobs:
       - name: Checkout repository
         uses: actions/checkout@v4
 
-      - name: Setup Deno
-        uses: denoland/setup-deno@v1
+      - uses: actions/setup-node@v4
         with:
-          deno-version: v2.x
-
-      - name: Display the path
-        shell: bash
-        run: pwd
-
-      - name: Run fetcher script
-        run: deno run -A build.ts
+          node-version: 18
+      - run: npm install
+      - run: npm run build
 
       - name: Commit and push changes
         run: |

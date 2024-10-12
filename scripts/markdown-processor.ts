@@ -10,7 +10,7 @@ import remarkRehype from "remark-rehype";
 import remarkUnwrapImages from "remark-unwrap-images";
 import { getSingletonHighlighter } from "shiki";
 import { unified } from "unified";
-import theme from "./shades-of-purple-color-theme.json" with { type: "json" };
+import theme from "./shades-of-purple-color-theme.json";
 
 export async function markdownProcessor(markdown: string) {
   const options: any = {

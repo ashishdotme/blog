@@ -7,15 +7,13 @@
     "build": "tsx build.ts",
     "new": "plop --plopfile plop/plopfile.js"
   },
-  "dependencies": {
+  "devDependencies": {
     "date-fns": "^4.1.0",
     "gray-matter": "^4.0.3",
     "plop": "^4.0.1",
     "plop-helper-slugify": "^1.1.0",
     "shiki": "^1.22.0",
-    "slugify": "^1.6.6"
-  },
-  "devDependencies": {
+    "slugify": "^1.6.6",
     "@remark-embedder/core": "^3.0.3",
     "dotenv": "^16.4.5",
     "rehype-external-links": "^3.0.0",
