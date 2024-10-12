@@ -14,6 +14,10 @@ on:
       - master
   workflow_dispatch:
 
+defaults:
+  run:
+    working-directory: scripts
+
 jobs:
   update:
     env:
@@ -29,7 +33,7 @@ jobs:
           deno-version: v2.x
 
       - name: Run fetcher script
-        run: deno run -A scripts/build.ts
+        run: deno run -A build.ts
 
       - name: Commit and push changes
         run: |

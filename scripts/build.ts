@@ -64,9 +64,10 @@ const generateJson = async (srcFolder: string, destFolder: string) => {
 };
 
 async function main() {
-  await generateJson("posts", "api/posts/all.json");
-  await generateJson("now", "api/now/all.json");
-  await generateJson("weekly", "api/weekly/all.json");
+  await generateJson("../posts", "../api/posts/all.json");
+  await generateJson("../now", "../api/now/all.json");
+  await generateJson("../weekly", "../api/weekly/all.json");
+  console.log("JSON files generated successfully");
 }
 
 await main();
