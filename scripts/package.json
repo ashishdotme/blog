@@ -4,7 +4,7 @@
   "sideEffects": false,
   "type": "module",
   "scripts": {
-    "build": "tsx scripts/build.ts",
+    "build": "tsx build.ts",
     "new": "plop --plopfile scripts/plop/plopfile.js"
   },
   "dependencies": {

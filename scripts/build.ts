@@ -4,12 +4,15 @@ import matter from "gray-matter";
 import { Post } from "./types.ts";
 import { markdownProcessor } from "./markdown-processor.ts";
 import process from "node:process";
-
+import slugify from "slugify";
+import { format, getISOWeek, getYear } from "date-fns";
 const generateSlug = (title: string): string => {
-  return title
-    .split(" ")
-    .map((word) => word.toLowerCase().replace(/[^0-9a-z]/g, ""))
-    .join("-");
+  const options = {
+    lower: true,
+    remove: /['.]/g,
+  };
+
+  return slugify(title, options);
 };
 
 const extractPostData = async (filePath: PathLike): Promise<Post> => {
@@ -21,20 +24,16 @@ const extractPostData = async (filePath: PathLike): Promise<Post> => {
   }
 
   const htmlContent = await markdownProcessor(content);
-  const { title, description, coverImageUrl, date, tags, topic } = data;
+  let { title } = data;
 
-  if (!title || !topic || !date || !tags) {
-    throw new Error("Frontmatter is missing");
+  if(typeof title !== "string") {
+    title = format(title, "yyyy-MM-dd");
   }
 
   return {
+    ...data,
     title,
-    topic,
-    description,
     content: htmlContent,
-    coverImageUrl,
-    date,
-    tags,
     slug: generateSlug(title as string),
   };
 };
@@ -51,20 +50,21 @@ const saveToFile = (data: object, fileName: string) => {
   fs.writeFileSync(fileName, jsonData, "utf8");
 };
 
-const generateJson = async (postFolder: string) => {
-  const fileName = fetchFilenamesFromFolder(postFolder);
+const generateJson = async (srcFolder: string, destFolder: string) => {
+  const fileName = fetchFilenamesFromFolder(srcFolder);
   const promises = fileName.map((fileName) =>
-    extractPostData(path.join(process.cwd(), postFolder, fileName))
+    extractPostData(path.join(process.cwd(), srcFolder, fileName))
   );
 
   const data = await Promise.all(promises);
-  saveToFile(data, "api/posts/all.json");
+  saveToFile(data, destFolder);
   return { data };
 };
 
 async function main() {
-  const { data } = await generateJson("posts");
-  console.log(data);
+  await generateJson("../posts", "../api/posts/all.json");
+  await generateJson("../now", "../api/now/all.json");
+  await generateJson("../weekly", "../api/weekly/all.json");
 }
 
 await main();
