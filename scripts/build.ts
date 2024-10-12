@@ -5,7 +5,9 @@ import { Post } from "./types.ts";
 import { markdownProcessor } from "./markdown-processor.ts";
 import process from "node:process";
 import slugify from "slugify";
-import { format, getISOWeek, getYear } from "date-fns";
+import { format } from "date-fns";
+
+
 const generateSlug = (title: string): string => {
   const options = {
     lower: true,
