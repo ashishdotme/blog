@@ -34,7 +34,7 @@ jobs:
 
       - name: Display the path
         shell: bash
-        run: echo $PATH
+        run: pwd
 
       - name: Run fetcher script
         run: deno run -A build.ts
