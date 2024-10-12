@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "now/2024-10-12.md",
+                "file": "weekly/week-41-2024.md",
                 "mode": "source",
                 "source": false
               }
@@ -96,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "now/2024-10-12.md",
+                "file": "weekly/week-41-2024.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "now/2024-10-12.md",
+                "file": "weekly/week-41-2024.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "now/2024-10-12.md"
+                "file": "weekly/week-41-2024.md"
               }
             }
           },
@@ -165,6 +165,8 @@
   "active": "c0f0c72be0b1deee",
   "lastOpenFiles": [
     "now/2024-10-12.md",
+    "weekly/week-41-2024.md",
+    "scripts/deno.lock",
     "scripts/node_modules/zwitch/license",
     "scripts/node_modules/zwitch/readme.md",
     "scripts/node_modules/zwitch/index.js",
@@ -177,7 +179,6 @@
     "scripts/node_modules/which/README.md",
     "scripts/node_modules/which/LICENSE",
     "scripts/node_modules/which/CHANGELOG.md",
-    "scripts/node_modules/which/bin",
     "scripts/node_modules/util-deprecate/README.md",
     "scripts/node_modules/util-deprecate/History.md",
     "scripts/node_modules/unist-util-stringify-position/readme.md",
@@ -199,7 +200,6 @@
     "scripts/node_modules/mdast-util-gfm-task-list-item/readme.md",
     "scripts/node_modules/mdast-util-gfm-autolink-literal/readme.md",
     "scripts/node_modules/is-path-inside/readme.md",
-    "scripts/node_modules/is-path-cwd/readme.md",
     "scripts/node_modules/date-fns/docs/logotype.svg",
     "scripts/node_modules/date-fns/docs/logo.svg",
     "Pasted image 20241012115151.png",

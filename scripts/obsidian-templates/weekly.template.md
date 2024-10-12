@@ -7,4 +7,10 @@ title: <%* tR += dateString %>
 date: <%* tR += dateString %>
 ---
 
+# Reflections
+
 <% tp.file.cursor() %>
+
+
+
+# Links
