@@ -17,6 +17,7 @@
     "npm:remark-rehype@^11.1.0": "11.1.1",
     "npm:remark-unwrap-images@4": "4.0.1",
     "npm:shiki@^1.22.0": "1.22.0",
+    "npm:slugify@^1.6.6": "1.6.6",
     "npm:tsx@^4.10.5": "4.19.1",
     "npm:typescript@^5.1.6": "5.6.3",
     "npm:unified@^11.0.4": "11.0.5"
