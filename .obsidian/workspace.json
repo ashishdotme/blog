@@ -164,6 +164,9 @@
   },
   "active": "c0f0c72be0b1deee",
   "lastOpenFiles": [
+    "api/weekly/all.json",
+    "api/weekly",
+    "scripts/deno.824e8ea8.tmp",
     "scripts/node_modules/@esbuild/android-arm64",
     "package.json",
     "node_modules/slugify/slugify.d.ts",
@@ -174,10 +177,7 @@
     "node_modules/slugify/LICENSE",
     "node_modules/slugify",
     "node_modules",
-    "scripts/node_modules/@types/hast/package.json",
     "README.md",
-    "scripts/node_modules/date-fns/parse/_lib/Setter.d.ts",
-    "scripts/node_modules/date-fns/parse/_lib/Parser.d.ts",
     "now/2024-10-12.md",
     "weekly/week-41-2024.md",
     "scripts/node_modules/zwitch/readme.md",
@@ -193,7 +193,6 @@
     "scripts/node_modules/run-parallel/README.md",
     "scripts/node_modules/rimraf/README.md",
     "scripts/node_modules/rimraf/CHANGELOG.md",
-    "scripts/node_modules/queue-microtask/README.md",
-    "scripts/node_modules/path-type/readme.md"
+    "scripts/node_modules/queue-microtask/README.md"
   ]
 }
