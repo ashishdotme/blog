@@ -32,10 +32,6 @@ jobs:
         with:
           deno-version: v2.x
 
-      - name: CD
-        shell: bash
-        run: cd scripts
-
       - name: Display the path
         shell: bash
         run: echo $PATH
