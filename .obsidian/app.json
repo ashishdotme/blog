@@ -1,0 +1,11 @@
+{
+  "vimMode": true,
+  "attachmentFolderPath": "attachments",
+  "alwaysUpdateLinks": true,
+  "propertiesInDocument": "visible",
+  "userIgnoreFilters": [
+    "/node_modules/",
+    "node_modules/",
+    "scripts/"
+  ]
+}

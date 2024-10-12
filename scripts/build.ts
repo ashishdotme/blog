@@ -17,14 +17,14 @@ const extractPostData = async (filePath: PathLike): Promise<Post> => {
   const { data, content } = matter(fileContent);
 
   if (!content || !data) {
-    throw new Error("File missing required content");
+    throw new Error("Content is missing");
   }
 
   const htmlContent = await markdownProcessor(content);
   const { title, description, coverImageUrl, date, tags, topic } = data;
 
   if (!title || !topic || !date || !tags) {
-    throw new Error("A required field is missing");
+    throw new Error("Frontmatter is missing");
   }
 
   return {
