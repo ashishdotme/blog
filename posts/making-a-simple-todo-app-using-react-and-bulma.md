@@ -9,7 +9,7 @@ tags: ["react", "frontend", "redux"]
 Redux is now the famous state management library but it can be overwhelming.
 In this tutorial we will make a simple todo app with React, Redux and Bulma. Bulma is a awesome UI library. Here is a screenshot of what we will be making today
 
-[View Demo](https://app.ashish.me/react-todo/) &nbsp;&nbsp;&nbsp;[View Source code](https://github.com/ashishdotme/react-todo)
+[View Demo](https://app.ashish.me/react-todo/) [View Source code](https://github.com/ashishdotme/react-todo)
 
 
 ![redux](https://i.imgur.com/EoGqczc.png)

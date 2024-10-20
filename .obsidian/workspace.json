@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "weekly/week-41-2024.md",
-                "mode": "source",
+                "file": "posts/making-a-simple-todo-app-using-react-and-bulma.md",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -96,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "weekly/week-41-2024.md",
+                "file": "posts/making-a-simple-todo-app-using-react-and-bulma.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "weekly/week-41-2024.md",
+                "file": "posts/making-a-simple-todo-app-using-react-and-bulma.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "weekly/week-41-2024.md"
+                "file": "posts/making-a-simple-todo-app-using-react-and-bulma.md"
               }
             }
           },
@@ -164,44 +164,44 @@
   },
   "active": "c0f0c72be0b1deee",
   "lastOpenFiles": [
-    "scripts/node_modules/strip-bom-string/package.json",
-    "scripts/node_modules/strip-bom-string/README.md",
-    "scripts/node_modules/strip-bom-string/index.js",
-    "scripts/node_modules/strip-bom-string/LICENSE",
-    "scripts/node_modules/strip-bom-string",
-    "scripts/node_modules/is-extendable/package.json",
-    "scripts/node_modules/is-extendable/README.md",
-    "scripts/node_modules/is-extendable/LICENSE",
-    "scripts/node_modules/is-extendable/index.js",
-    "scripts/node_modules/is-extendable",
-    "scripts/node_modules/section-matter/LICENSE",
-    "scripts/node_modules/section-matter/README.md",
-    "scripts/node_modules/section-matter/package.json",
-    "scripts/node_modules/section-matter/index.js",
-    "scripts/node_modules/hast-util-parse-selector/readme.md",
-    "scripts/node_modules/micromark-util-html-tag-name/readme.md",
-    "scripts/node_modules/micromark-util-encode/readme.md",
-    "scripts/node_modules/html-void-elements/readme.md",
-    "scripts/node_modules/micromark-util-combine-extensions/readme.md",
-    "scripts/node_modules/hast-util-whitespace/readme.md",
-    "scripts/node_modules/space-separated-tokens/readme.md",
-    "scripts/node_modules/is-absolute-url/readme.md",
-    "scripts/node_modules/@esbuild/win32-x64/README.md",
-    "scripts/node_modules/date-fns/CHANGELOG.md",
-    "scripts/node_modules/date-fns/docs/webpack.md",
-    "scripts/node_modules/date-fns/docs/unicodeTokens.md",
-    "scripts/node_modules/date-fns/docs/timeZones.md",
-    "scripts/node_modules/date-fns/docs/release.md",
+    "posts/setting-up-my-dev-environment-on-windows-10.md",
+    "now/2024-10-12.md",
+    "scripts/node_modules/which/bin/which",
+    "scripts/node_modules/which/bin",
+    "scripts/node_modules/wcwidth/test/index.js",
+    "scripts/node_modules/wcwidth/test",
+    "scripts/node_modules/wcwidth/docs/index.md",
+    "scripts/node_modules/wcwidth/docs",
+    "scripts/node_modules/shiki/dist/types/wasm-dynamic.d.mts",
+    "scripts/node_modules/shiki/dist/types",
+    "scripts/node_modules/rxjs/dist/cjs/webSocket/index.js.map",
+    "scripts/node_modules/rxjs/dist/cjs/webSocket/index.js",
+    "scripts/node_modules/rxjs/dist/cjs/webSocket",
+    "scripts/node_modules/run-parallel/README.md",
+    "scripts/node_modules/run-async/README.md",
+    "scripts/node_modules/resolve-dir/README.md",
+    "scripts/node_modules/ms/readme.md",
+    "scripts/node_modules/ms/license.md",
+    "scripts/node_modules/micromark-util-types/readme.md",
+    "scripts/node_modules/map-cache/README.md",
+    "scripts/node_modules/make-iterator/README.md",
+    "scripts/node_modules/is-windows/README.md",
+    "scripts/node_modules/is-number/README.md",
+    "scripts/node_modules/get-east-asian-width/readme.md",
+    "scripts/node_modules/fined/README.md",
+    "scripts/node_modules/findup-sync/README.md",
+    "scripts/node_modules/expand-tilde/README.md",
+    "scripts/node_modules/merge2/README.md",
+    "scripts/node_modules/is-extglob/README.md",
+    "scripts/node_modules/is-absolute/README.md",
+    "scripts/node_modules/interpret/README.md",
+    "scripts/node_modules/ini/README.md",
+    "scripts/node_modules/inflight/README.md",
+    "scripts/node_modules/global-modules/README.md",
+    "scripts/node_modules/ansi-regex/readme.md",
+    "weekly/week-41-2024.md",
     "scripts/node_modules/date-fns/docs/logotype.svg",
     "scripts/node_modules/date-fns/docs/logo.svg",
-    "scripts/node_modules/date-fns/docs/i18nContributionGuide.md",
-    "scripts/node_modules/date-fns/docs/i18n.md",
-    "scripts/node_modules/date-fns/docs/fp.md",
-    "scripts/node_modules/date-fns/docs/gettingStarted.md",
-    "scripts/node_modules/date-fns/docs/cdn.md",
-    "scripts/node_modules/typescript/SECURITY.md",
-    "scripts/node_modules/handlebars/release-notes.md",
-    "scripts/node_modules/plop/scripts/README.md",
     "node_modules/date-fns/docs/logotype.svg",
     "node_modules/date-fns/docs/logo.svg",
     "Pasted image 20241012115151.png",

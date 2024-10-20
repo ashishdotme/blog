@@ -4,7 +4,7 @@
   tR += "---"
 %>
 title: <%* tR += dateString %>
-date: <%* tR += dateString %>
+date: <% tp.date.now("YYYY-MM-DD") %>
 ---
 
 # Reflections
