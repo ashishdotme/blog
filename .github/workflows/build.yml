@@ -35,6 +35,7 @@ jobs:
 
       - name: Commit and push changes
         run: |
+          cd ..
           git pull
           git config --local user.email "action@github.com"
           git config --local user.name "GitHub Action"
