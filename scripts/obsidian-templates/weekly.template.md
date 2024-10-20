@@ -6,6 +6,7 @@
 %>
 title: <%* tR += titleString %>
 date: <% tp.date.now("YYYY-MM-DD") %>
+topic: Weeknotes
 ---
 
 # Reflections
