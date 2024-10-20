@@ -1,7 +1,8 @@
 [
   {
-    "title": "week-41-2024",
-    "date": "week-41-2024",
+    "title": "Week 41 2024",
+    "date": "2024-10-13T00:00:00.000Z",
+    "topic": "Weeknotes",
     "content": "<h1>Reflections</h1>\n<p>Last week was incredibly productive. I dedicated my time to tidying up my website. I created a separate repository for my blog content on <a href=\"https://github.com/ashishdotme/blog\" rel=\"noopener noreferrer\" target=\"_blank\">GitHub</a>. I installed Obsidian and several <a href=\"https://github.com/ashishdotme/blog/tree/master/.obsidian\" rel=\"noopener noreferrer\" target=\"_blank\">plugins</a> to assist me in writing blogs in markdown with ease. Additionally, I have successfully set up a pipeline using GitHub actions to convert my markdown files into HTML content.</p>\n<h1>Links</h1>\n<ul>\n<li><a href=\"https://github.com/cococolanosugar/mdbook-auto-gen-summary\" rel=\"noopener noreferrer\" target=\"_blank\">Mdbook Auto Summary</a></li>\n<li><a href=\"https://jamiehurst.co.uk/2023-09-17_pkm\" rel=\"noopener noreferrer\" target=\"_blank\">Jamie Hurst's Blog - PKM: How I Organise Myself</a></li>\n<li><a href=\"https://heymichellemac.com/obsidian-setup-sep-2021\" rel=\"noopener noreferrer\" target=\"_blank\">A Walkthrough Of My Obsidian Setup | heymichellemac</a></li>\n</ul>",
     "slug": "week-41-2024"
   }
