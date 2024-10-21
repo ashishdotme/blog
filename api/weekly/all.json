@@ -5,5 +5,12 @@
     "topic": "Weeknotes",
     "content": "<h2>Reflections</h2>\n<p>Last week was incredibly productive. I dedicated my time to tidying up my website. I created a separate repository for my blog content on <a href=\"https://github.com/ashishdotme/blog\" rel=\"noopener noreferrer\" target=\"_blank\">GitHub</a>. I installed Obsidian and several <a href=\"https://github.com/ashishdotme/blog/tree/master/.obsidian\" rel=\"noopener noreferrer\" target=\"_blank\">plugins</a> to assist me in writing blogs in markdown with ease. Additionally, I have successfully set up a pipeline using GitHub actions to convert my markdown files into HTML content.</p>\n<h2>Links</h2>\n<ul>\n<li><a href=\"https://github.com/cococolanosugar/mdbook-auto-gen-summary\" rel=\"noopener noreferrer\" target=\"_blank\">Mdbook Auto Summary</a></li>\n<li><a href=\"https://jamiehurst.co.uk/2023-09-17_pkm\" rel=\"noopener noreferrer\" target=\"_blank\">Jamie Hurst's Blog - PKM: How I Organise Myself</a></li>\n<li><a href=\"https://heymichellemac.com/obsidian-setup-sep-2021\" rel=\"noopener noreferrer\" target=\"_blank\">A Walkthrough Of My Obsidian Setup | heymichellemac</a></li>\n</ul>",
     "slug": "week-41,-2024"
+  },
+  {
+    "title": "Week 42, 2024",
+    "date": "2024-10-18T00:00:00.000Z",
+    "topic": "Weeknotes",
+    "content": "<h2>Reflections</h2>\n<p>This week, I have added numerous new features in the revamped edition of my website. I have added an <code>expenses</code> page to track my personal spending, tidied up the week notes section, and included a small widget on the homepage to showcase the most recent blog post and week note. Also added a <code>uses</code> page to monitor all the apps and electronics I utilize, along with a <code>todos</code> page to manage my public tasks. My focus for next week will be to create pages for organizing my collection of movies, TV shows, and books. I also require a sitemap page to list all the links to my website's pages.</p>\n<h2>Links</h2>\n<p><a href=\"https://gitlab.aiursoft.cn/anduin/sleepagent/\" rel=\"noopener noreferrer\" target=\"_blank\">Anduin Xue / SleepAgent · GitLab</a>\n<a href=\"https://github.com/kud/ai-prompts/blob/main/dist/espanso/index.yml\" rel=\"noopener noreferrer\" target=\"_blank\">ai-prompts/dist/espanso/index.yml at main · kud/ai-prompts · GitHub</a></p>",
+    "slug": "week-42,-2024"
   }
 ]
