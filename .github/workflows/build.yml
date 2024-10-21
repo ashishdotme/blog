@@ -44,10 +44,9 @@ jobs:
           git push
       
       - name: Publish to Cloudflare Pages
-        uses: cloudflare/pages-action@v1
+        uses: cloudflare/wrangler-action@v3
         with:
           apiToken: ${{ secrets.CLOUDFLARE_API_TOKEN }}
           accountId: cd78c815cc8afdc708dedabdcb7ade24
-          projectName: blog
-          directory: api
+          command: pages deploy api --project-name=blog
           branch: master
