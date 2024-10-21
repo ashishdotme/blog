@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "posts/making-a-simple-todo-app-using-react-and-bulma.md",
-                "mode": "preview",
+                "file": "weekly/week-42-2024.md",
+                "mode": "source",
                 "source": false
               }
             }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#blog",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -96,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "posts/making-a-simple-todo-app-using-react-and-bulma.md",
+                "file": "weekly/week-42-2024.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "posts/making-a-simple-todo-app-using-react-and-bulma.md",
+                "file": "weekly/week-42-2024.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "posts/making-a-simple-todo-app-using-react-and-bulma.md"
+                "file": "weekly/week-42-2024.md"
               }
             }
           },
@@ -136,14 +136,21 @@
               "type": "calendar",
               "state": {}
             }
+          },
+          {
+            "id": "b661a178e5c713cd",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {}
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -159,11 +166,15 @@
       "darlal-switcher-plus:Open Symbols for the active editor": false,
       "obsidian-kanban:Create new board": false,
       "obsidian-textgenerator-plugin:Generate Text!": false,
-      "obsidian-textgenerator-plugin:Text Generator: Templates Packages Manager": false
+      "obsidian-textgenerator-plugin:Text Generator: Templates Packages Manager": false,
+      "obsidian-git:Open Git source control": false
     }
   },
   "active": "c0f0c72be0b1deee",
   "lastOpenFiles": [
+    "weekly/week-41-2024.md",
+    "weekly/week-42-2024.md",
+    "posts/making-a-simple-todo-app-using-react-and-bulma.md",
     "posts/setting-up-my-dev-environment-on-windows-10.md",
     "now/2024-10-12.md",
     "scripts/node_modules/which/bin/which",
@@ -197,9 +208,6 @@
     "scripts/node_modules/interpret/README.md",
     "scripts/node_modules/ini/README.md",
     "scripts/node_modules/inflight/README.md",
-    "scripts/node_modules/global-modules/README.md",
-    "scripts/node_modules/ansi-regex/readme.md",
-    "weekly/week-41-2024.md",
     "scripts/node_modules/date-fns/docs/logotype.svg",
     "scripts/node_modules/date-fns/docs/logo.svg",
     "node_modules/date-fns/docs/logotype.svg",

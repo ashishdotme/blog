@@ -9,10 +9,10 @@ date: <% tp.date.now("YYYY-MM-DD") %>
 topic: Weeknotes
 ---
 
-# Reflections
+## Reflections
 
 <% tp.file.cursor() %>
 
 
 
-# Links
+## Links
