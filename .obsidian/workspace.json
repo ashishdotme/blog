@@ -13,10 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "weekly/week-42-2024.md",
+                "file": "books/atomic-habits.md",
                 "mode": "source",
-                "source": false
-              }
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "atomic-habits"
             }
           }
         ]
@@ -39,7 +41,9 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "byCreatedTime"
-              }
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
             }
           },
           {
@@ -54,7 +58,9 @@
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-search",
+              "title": "Search"
             }
           },
           {
@@ -62,7 +68,9 @@
             "type": "leaf",
             "state": {
               "type": "bookmarks",
-              "state": {}
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
             }
           },
           {
@@ -73,7 +81,9 @@
               "state": {
                 "sortOrder": "frequency",
                 "useHierarchy": true
-              }
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
             }
           }
         ]
@@ -104,7 +114,9 @@
                 "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for week-42-2024"
             }
           },
           {
@@ -116,7 +128,9 @@
                 "file": "weekly/week-42-2024.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from week-42-2024"
             }
           },
           {
@@ -126,7 +140,9 @@
               "type": "outline",
               "state": {
                 "file": "weekly/week-42-2024.md"
-              }
+              },
+              "icon": "lucide-list",
+              "title": "Outline of week-42-2024"
             }
           },
           {
@@ -134,7 +150,9 @@
             "type": "leaf",
             "state": {
               "type": "calendar",
-              "state": {}
+              "state": {},
+              "icon": "calendar-with-checkmark",
+              "title": "Calendar"
             }
           },
           {
@@ -142,7 +160,9 @@
             "type": "leaf",
             "state": {
               "type": "git-view",
-              "state": {}
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
             }
           }
         ],
@@ -172,8 +192,13 @@
   },
   "active": "c0f0c72be0b1deee",
   "lastOpenFiles": [
-    "weekly/week-41-2024.md",
+    "api/books/all.json",
+    "api/books",
+    "weekly/week-43-2024.md",
+    "books/atomic-habits.md",
+    "books/atomic-habits.md",
     "weekly/week-42-2024.md",
+    "weekly/week-41-2024.md",
     "posts/making-a-simple-todo-app-using-react-and-bulma.md",
     "posts/setting-up-my-dev-environment-on-windows-10.md",
     "now/2024-10-12.md",
@@ -187,7 +212,6 @@
     "scripts/node_modules/shiki/dist/types",
     "scripts/node_modules/rxjs/dist/cjs/webSocket/index.js.map",
     "scripts/node_modules/rxjs/dist/cjs/webSocket/index.js",
-    "scripts/node_modules/rxjs/dist/cjs/webSocket",
     "scripts/node_modules/run-parallel/README.md",
     "scripts/node_modules/run-async/README.md",
     "scripts/node_modules/resolve-dir/README.md",
@@ -204,10 +228,6 @@
     "scripts/node_modules/expand-tilde/README.md",
     "scripts/node_modules/merge2/README.md",
     "scripts/node_modules/is-extglob/README.md",
-    "scripts/node_modules/is-absolute/README.md",
-    "scripts/node_modules/interpret/README.md",
-    "scripts/node_modules/ini/README.md",
-    "scripts/node_modules/inflight/README.md",
     "scripts/node_modules/date-fns/docs/logotype.svg",
     "scripts/node_modules/date-fns/docs/logo.svg",
     "node_modules/date-fns/docs/logotype.svg",

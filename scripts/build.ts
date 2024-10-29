@@ -67,6 +67,7 @@ async function main() {
   await generateJson("../posts", "../api/posts/all.json");
   await generateJson("../now", "../api/now/all.json");
   await generateJson("../weekly", "../api/weekly/all.json");
+  await generateJson("../books", "../api/books/all.json");
   console.log("JSON files generated successfully");
 }
 
