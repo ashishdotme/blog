@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "books/atomic-habits.md",
-                "mode": "source",
+                "file": "weekly/week-43-2024.md",
+                "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "atomic-habits"
+              "title": "week-43-2024"
             }
           }
         ]
@@ -192,11 +192,10 @@
   },
   "active": "c0f0c72be0b1deee",
   "lastOpenFiles": [
+    "books/atomic-habits.md",
     "api/books/all.json",
     "api/books",
     "weekly/week-43-2024.md",
-    "books/atomic-habits.md",
-    "books/atomic-habits.md",
     "weekly/week-42-2024.md",
     "weekly/week-41-2024.md",
     "posts/making-a-simple-todo-app-using-react-and-bulma.md",
@@ -211,7 +210,6 @@
     "scripts/node_modules/shiki/dist/types/wasm-dynamic.d.mts",
     "scripts/node_modules/shiki/dist/types",
     "scripts/node_modules/rxjs/dist/cjs/webSocket/index.js.map",
-    "scripts/node_modules/rxjs/dist/cjs/webSocket/index.js",
     "scripts/node_modules/run-parallel/README.md",
     "scripts/node_modules/run-async/README.md",
     "scripts/node_modules/resolve-dir/README.md",
