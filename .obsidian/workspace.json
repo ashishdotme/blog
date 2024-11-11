@@ -11,14 +11,25 @@
             "id": "c0f0c72be0b1deee",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "diff-view",
               "state": {
-                "file": "weekly/week-43-2024.md",
-                "mode": "source",
-                "source": true
+                "file": "weekly/week-41-2024.md",
+                "staged": false
+              },
+              "icon": "git-pull-request",
+              "title": "Diff View (week-41-2024)"
+            }
+          },
+          {
+            "id": "278c2bb4e0e09614",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.7.5"
               },
               "icon": "lucide-file",
-              "title": "week-43-2024"
+              "title": "Release Notes 1.7.5"
             }
           }
         ]
@@ -192,12 +203,15 @@
   },
   "active": "c0f0c72be0b1deee",
   "lastOpenFiles": [
+    "weekly/week-44-2024.md",
+    "weekly/week-41-2024.md",
+    "weekly/week-42-2024.md",
+    "weekly/week-43-2024.md",
+    "Excalidraw/Drawing 2024-11-10 08.49.24.excalidraw.md",
+    "Excalidraw",
     "books/atomic-habits.md",
     "api/books/all.json",
     "api/books",
-    "weekly/week-43-2024.md",
-    "weekly/week-42-2024.md",
-    "weekly/week-41-2024.md",
     "posts/making-a-simple-todo-app-using-react-and-bulma.md",
     "posts/setting-up-my-dev-environment-on-windows-10.md",
     "now/2024-10-12.md",
@@ -209,7 +223,6 @@
     "scripts/node_modules/wcwidth/docs",
     "scripts/node_modules/shiki/dist/types/wasm-dynamic.d.mts",
     "scripts/node_modules/shiki/dist/types",
-    "scripts/node_modules/rxjs/dist/cjs/webSocket/index.js.map",
     "scripts/node_modules/run-parallel/README.md",
     "scripts/node_modules/run-async/README.md",
     "scripts/node_modules/resolve-dir/README.md",
