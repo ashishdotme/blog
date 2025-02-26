@@ -11,14 +11,14 @@
             "id": "ca0ae98864c447f1",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "split-diff-view",
               "state": {
-                "file": "weekly/week-45-2024.md",
-                "mode": "source",
-                "source": false
+                "aFile": "weekly/week-45-2024.md",
+                "bFile": "weekly/week-45-2024.md",
+                "aRef": ""
               },
-              "icon": "lucide-file",
-              "title": "week-45-2024"
+              "icon": "diff",
+              "title": "Diff: week-45-2024"
             }
           }
         ]
@@ -40,7 +40,8 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "byCreatedTime"
+                "sortOrder": "byCreatedTime",
+                "autoReveal": false
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
@@ -151,8 +152,8 @@
             "state": {
               "type": "calendar",
               "state": {},
-              "icon": "calendar-with-checkmark",
-              "title": "Calendar"
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
             }
           },
           {
@@ -187,17 +188,21 @@
       "obsidian-kanban:Create new board": false,
       "obsidian-textgenerator-plugin:Generate Text!": false,
       "obsidian-textgenerator-plugin:Text Generator: Templates Packages Manager": false,
-      "obsidian-git:Open Git source control": false
+      "obsidian-git:Open Git source control": false,
+      "obsidian-excalidraw-plugin:New drawing": false
     }
   },
   "active": "ca0ae98864c447f1",
   "lastOpenFiles": [
-    "2024-11-11.md",
     "weekly/week-45-2024.md",
-    "weekly/week-44-2024.md",
-    "weekly/week-41-2024.md",
-    "weekly/week-42-2024.md",
     "weekly/week-43-2024.md",
+    "weekly/week-42-2024.md",
+    "weekly/week-41-2024.md",
+    "weekly/week-44-2024.md",
+    "posts/my-meal-plan.md",
+    "scripts/obsidian-templates/post-template.md",
+    "posts/2025-02-26.md",
+    "2024-11-11.md",
     "Excalidraw/Drawing 2024-11-10 08.49.24.excalidraw.md",
     "Excalidraw",
     "books/atomic-habits.md",
@@ -225,9 +230,6 @@
     "scripts/node_modules/is-windows/README.md",
     "scripts/node_modules/is-number/README.md",
     "scripts/node_modules/get-east-asian-width/readme.md",
-    "scripts/node_modules/fined/README.md",
-    "scripts/node_modules/findup-sync/README.md",
-    "scripts/node_modules/expand-tilde/README.md",
     "scripts/node_modules/date-fns/docs/logotype.svg",
     "scripts/node_modules/date-fns/docs/logo.svg",
     "node_modules/date-fns/docs/logotype.svg",
