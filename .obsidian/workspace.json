@@ -11,14 +11,14 @@
             "id": "ca0ae98864c447f1",
             "type": "leaf",
             "state": {
-              "type": "split-diff-view",
+              "type": "markdown",
               "state": {
-                "aFile": "weekly/week-45-2024.md",
-                "bFile": "weekly/week-45-2024.md",
-                "aRef": ""
+                "file": "posts/my-meal-plan.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "diff",
-              "title": "Diff: week-45-2024"
+              "icon": "lucide-file",
+              "title": "my-meal-plan"
             }
           }
         ]
@@ -194,12 +194,13 @@
   },
   "active": "ca0ae98864c447f1",
   "lastOpenFiles": [
+    "posts/setting-up-my-dev-environment-on-windows-10.md",
+    "posts/my-meal-plan.md",
     "weekly/week-45-2024.md",
     "weekly/week-43-2024.md",
     "weekly/week-42-2024.md",
     "weekly/week-41-2024.md",
     "weekly/week-44-2024.md",
-    "posts/my-meal-plan.md",
     "scripts/obsidian-templates/post-template.md",
     "posts/2025-02-26.md",
     "2024-11-11.md",
@@ -209,7 +210,6 @@
     "api/books/all.json",
     "api/books",
     "posts/making-a-simple-todo-app-using-react-and-bulma.md",
-    "posts/setting-up-my-dev-environment-on-windows-10.md",
     "now/2024-10-12.md",
     "scripts/node_modules/which/bin/which",
     "scripts/node_modules/which/bin",

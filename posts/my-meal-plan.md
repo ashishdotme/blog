@@ -1,11 +1,11 @@
 ---
-title:  my meal plan
+title: my meal plan
 slug: my-meal-plan
 date: 2025-02-26
 updated: 2025-02-26
 topic: Life
-tags: 
-
+tags:
+  - fitness
 ---
 
 This year, I made a commitment to prioritize my health and fitness. After researching various approaches, I decided to implement intermittent fasting alongside a structured diet plan focused on balanced nutrition.
