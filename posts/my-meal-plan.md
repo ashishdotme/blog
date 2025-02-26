@@ -1,5 +1,5 @@
 ---
-title: my meal plan
+title: My meal plan
 slug: my-meal-plan
 date: 2025-02-26
 updated: 2025-02-26
