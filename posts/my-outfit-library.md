@@ -10,23 +10,21 @@ tags:
   - wardrobe
 ---
 
-I spent an unreasonable amount of time last month putting together a visual outfit library. I'm posting it here because I think the format might be useful to others, and I'd genuinely like feedback on any combinations that look off.
+I spent way too long last month putting together a visual outfit library. Probably 15 hours across a couple weekends, which is embarrassing to admit, but I got really into it. Posting it here because I think the format might be useful and because I want to know if any of these combinations are actually bad.
 
-I started caring about how I dress about two years ago, mostly because I wanted to stop defaulting to the same black tee and joggers every day. What began as "I should probably own a blazer" turned into a genuine interest in understanding why certain combinations work and others don't.
+A bit about me: I'm 31, work in tech, and almost never need to dress formally. Two years ago I was wearing the same black tee and joggers to everything, including dates (not great). A friend dragged me to Nordstrom Rack and I bought a navy blazer on impulse. That was the gateway drug. I started reading Permanent Style, lurking on r/malefashionadvice, watching way too many Tim Dessaint videos, and now here I am making spreadsheets about pants.
 
-**Context:** I'm in my early 30s, work in tech, and almost never need to dress formally. But I enjoy looking put together. Most of my day-to-day falls somewhere between a clean casual and smart-casual. I'm in the US but I like the kind of semi-casual style you see on Permanent Style — smart enough to look intentional, relaxed enough that you're not the overdressed guy at a coffee shop.
+I like the semi-casual end of things. Smart enough that it looks like I thought about it, relaxed enough that I'm not the weird overdressed guy at a coffee shop. I don't own a suit and probably should, but that's a problem for later.
 
-**The core idea:** Most people build outfits from the shirt down. I've found it works better the other way — start with the pants, decide on formality, then pick a top and shoes that support that choice. That one shift removed most of my decision fatigue. Some pants want contrast, some want texture, some want restraint.
+One thing that changed everything for me: I stopped thinking about shirts first and started thinking about pants first. Pick the pants, figure out how formal you want to be, then choose a top and shoes that fit. It sounds obvious but it killed about 80% of the "I have nothing to wear" feeling. That's why everything below is organized by pant type. It's just how I get dressed now.
 
-**Logic:** I've organized everything by pant type because that's genuinely how I get dressed. I don't think about "what shirt do I want to wear today." I think about which pants match my energy, and then the rest follows. Not every top works with every bottom here — I've tried to be realistic about what actually pairs well rather than claiming everything is infinitely versatile.
+I haven't included underwear, socks, or gym clothes. I buy boring Uniqlo basics for all of that and I don't care how I look while deadlifting. This is just the stuff I actually think about when getting dressed.
 
-**What's not here:** Underwear, socks, undershirts — I buy boring colors from Uniqlo for all of those. Also no sportswear or running shoes. I don't mix athletic and regular clothes and I don't care how I look at the gym. The goal was to keep this focused on the clothes I actually think about when getting dressed.
-
-There are roughly 70 outfit combinations across 9 pant categories below, plus some reference charts at the end. I currently own maybe a third of what's shown — the rest is aspirational. Most items are straightforward menswear colors, but there are a few bolder choices (the rust sweater, the pink oxford) that I think work within the system even if I'm not fully confident in all of them yet.
+I own maybe a third of what's shown here. The rest is aspirational. Some of the bolder choices (the rust sweater, the pink oxford) I'm not totally sure about yet but I think they work.
 
 ## Straight dark blue jeans
 
-The most versatile pant I own. Works casual to smart-casual without trying.
+The most versatile pant I own. These go with basically everything.
 
 <div style="display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:16px;margin:20px 0;">
   <figure style="margin:0;">
@@ -67,11 +65,11 @@ The most versatile pant I own. Works casual to smart-casual without trying.
   </figure>
 </div>
 
-Dark jeans are basically a neutral. They hide stains, travel well, and dress up close to business-casual. I reach for these more than anything else and I think most wardrobes should start here.
+I wear these probably four days a week. They hide stains, travel well, and you can wear them to most restaurants without feeling underdressed. If you're starting from scratch, buy these first. Everything else comes after.
 
 ## Baggy dark blue jeans
 
-Relaxed streetwear-leaning fit. I like these for weekends when I want to look like I made a choice but not like I tried too hard.
+I bought a pair of these after seeing them everywhere on Instagram. Jury's still out on whether they actually look good on me or if I just wanted them to.
 
 <div style="display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:16px;margin:20px 0;">
   <figure style="margin:0;">
@@ -88,11 +86,11 @@ Relaxed streetwear-leaning fit. I like these for weekends when I want to look li
   </figure>
 </div>
 
-The key with baggy bottoms is keeping the top fitted or structured. Higher rise works best, and rolling the hem helps break up the volume. I'm still figuring out the right balance here — it's easy to tip into sloppy.
+The trick with baggy jeans is you need a fitted or structured top or the whole thing looks like you borrowed someone else's clothes. High rise helps. I've also been rolling the hem which breaks up the volume a bit. Still learning this one honestly.
 
 ## Straight light blue wash jeans
 
-These come out in spring and summer. They need contrast up top to look intentional rather than washed out.
+Spring and summer only. I made the mistake of wearing these with a light grey tee once and it looked like I was fading into the background.
 
 <div style="display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:16px;margin:20px 0;">
   <figure style="margin:0;">
@@ -125,11 +123,11 @@ These come out in spring and summer. They need contrast up top to look intention
   </figure>
 </div>
 
-Light wash reads more casual than dark and usually looks best in warmer months. The denim-on-denim combo works if the shades are different enough — I've been told at least two shades apart, which seems about right.
+Light wash reads way more casual than dark. You need a darker or more saturated top or the outfit has no anchor. The denim-on-denim thing (denim jacket + light jeans) works but only if the shades are actually different. Someone on MFA told me "at least two shades apart" and that seems right.
 
 ## Baggy light blue wash jeans
 
-Vintage and retro-leaning. These need structure up top so the outfit doesn't drift into "I just grabbed whatever was on the floor."
+90s revival vibes. You need something structured on top or it just looks like laundry day.
 
 <div style="display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:16px;margin:20px 0;">
   <figure style="margin:0;">
@@ -146,11 +144,11 @@ Vintage and retro-leaning. These need structure up top so the outfit doesn't dri
   </figure>
 </div>
 
-Weekends only for me. Cuff or stack at the ankle and lean into vintage or oversized pieces. I wouldn't wear these to anything where I want to be taken seriously, which is fine — not every outfit needs to work for every context.
+Weekends only. I wouldn't wear these to anything where I'm trying to be taken seriously. Cuff or stack at the ankle, lean into the vintage thing, and don't fight what they are.
 
 ## Straight black jeans
 
-My second most-reached-for pant. Works for everything from a casual Friday to a nice dinner out.
+My number two after dark blue. These were actually my first "nice" jeans purchase (Uniqlo selvedge, $50, still holding up).
 
 <div style="display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:16px;margin:20px 0;">
   <figure style="margin:0;">
@@ -183,11 +181,11 @@ My second most-reached-for pant. Works for everything from a casual Friday to a 
   </figure>
 </div>
 
-Black jeans read more formal than blue denim in most contexts. They fade fast if washed badly — wash inside-out in cold water and hang dry. One thing I learned the hard way: brown shoes rarely work with black jeans. Stick to black or grey footwear.
+Black jeans read dressier than blue in most situations. They do fade fast though. I ruined my first pair by just tossing them in the wash normally. Now I wash inside-out, cold water, hang dry. Also, I tried brown Chelsea boots with these once and it looked wrong. Stick to black or grey shoes.
 
 ## Baggy black jeans
 
-Streetwear territory. Works best with oversized silhouettes and bolder outerwear.
+Streetwear. I don't own these yet but my younger cousin wears them constantly and looks great, so they're on the list.
 
 <div style="display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:16px;margin:20px 0;">
   <figure style="margin:0;">
@@ -204,11 +202,11 @@ Streetwear territory. Works best with oversized silhouettes and bolder outerwear
   </figure>
 </div>
 
-Black-on-black works best when you add texture variation — a knit over a smooth tee, matte boots against coated denim, that kind of thing. If the jeans are baggy, keep the rest of the silhouette deliberate or the whole thing falls apart.
+The all-black thing only works if you mix textures. A chunky knit over a smooth tee, matte boots against coated denim. Otherwise it's just a dark blob. And if the jeans are baggy, the top needs to be intentional or you'll look like you're wearing pajamas.
 
 ## Straight khaki chinos
 
-The smart-casual workhorse. These go with almost any color on top except yellow and gold, which end up looking like a uniform.
+I resisted chinos for years because they reminded me of school uniforms. Turns out they're annoyingly versatile. They go with almost any top color except yellow and gold (unless you want to look like you work at Best Buy).
 
 <div style="display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:16px;margin:20px 0;">
   <figure style="margin:0;">
@@ -245,11 +243,11 @@ The smart-casual workhorse. These go with almost any color on top except yellow 
   </figure>
 </div>
 
-More formal than jeans, less formal than dress pants. Straight or slim-straight fits work best. I resisted chinos for a long time because they felt boring, but once I started pairing them with slightly bolder tops (the rust polo, a pink oxford) they became one of my most useful pieces.
+The thing that made chinos click for me was pairing them with slightly bolder tops. Navy polo is safe, sure, but the rust knit polo or a pink oxford against khaki? That actually looks like you have taste. Straight or slim-straight fit, not skinny. Nobody needs skinny chinos.
 
 ## Straight off-white linen pants
 
-Hot weather only. These are aspirational for me — I don't own a pair yet but I've been convinced by how well they photograph with muted, breathable tops.
+Don't own these yet. Entirely aspirational. But every time I see someone wearing off-white linen pants with a navy tee I think "yeah, that's it." Probably pulling the trigger this summer.
 
 <div style="display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:16px;margin:20px 0;">
   <figure style="margin:0;">
@@ -282,11 +280,11 @@ Hot weather only. These are aspirational for me — I don't own a pair yet but I
   </figure>
 </div>
 
-Linen wrinkles, and that's part of the point. Off-white is easier to wear than pure white, but fit still matters — too much volume and you go from "relaxed Mediterranean" to "resort wear." I'd avoid pairing these with a pure white top; the slight tone mismatch looks accidental.
+Linen wrinkles. That's the whole thing with linen, you just accept it. Off-white is easier than pure white because you don't look like a cruise ship entertainer. Fit matters a lot here though, too much volume and it stops looking intentional. Also don't wear a pure white top with these. The slight tone difference between white and off-white just looks like you failed at matching.
 
 ## Straight olive green chinos
 
-My favorite earth-tone neutral. These pair beautifully with warm tones, and I think they're more interesting than khaki without being any harder to style.
+These are what I reach for when I'm tired of blue and black but don't want to think too hard. Way more interesting than khaki but just as easy to pair with things.
 
 <div style="display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:16px;margin:20px 0;">
   <figure style="margin:0;">
@@ -319,11 +317,11 @@ My favorite earth-tone neutral. These pair beautifully with warm tones, and I th
   </figure>
 </div>
 
-Olive works across three seasons and pairs especially well with earth tones, navy, and burgundy. The olive + burgundy + cream combination might be my favorite outfit in this whole library, though I haven't tried it in person yet.
+Olive + burgundy + cream might be my favorite combination in this whole thing. Haven't actually worn it yet (don't own the burgundy crewneck) but in my head it's incredible. Olive also just goes with navy, camel, rust, white. Three season pant, easy. The only color I'd avoid is bright green because then you look like a tree.
 
 ## Shorts
 
-I keep shorts simple. Five to seven inch inseam, flat front, and I try not to overthink it.
+Not much to say here. 5-7 inch inseam, flat front. I used to wear cargo shorts to everything and I'm trying to make up for lost time.
 
 <div style="display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:16px;margin:20px 0;">
   <figure style="margin:0;">
@@ -352,11 +350,11 @@ I keep shorts simple. Five to seven inch inseam, flat front, and I try not to ov
   </figure>
 </div>
 
-Hem should hit one to two inches above the knee. Flat-front beats pleated for a cleaner look. I reserve cargo shorts for actual utility — hiking, yard work — and keep them out of this library.
+Hem should hit above the knee. Not mid-thigh unless you have the legs for it (I don't). The cargo shorts from before still exist, they just live in the hiking drawer now.
 
 ## Quick reference
 
-These charts summarize the color and footwear logic behind the combinations above. I find them useful when I'm standing in front of my closet and my brain has stopped working.
+I made these charts for myself because I kept forgetting what goes with what at 7am. Figured I'd include them here too.
 
 ### Color pairings
 
@@ -382,4 +380,4 @@ These charts summarize the color and footwear logic behind the combinations abov
 | Olive chinos | White sneakers | Tan or brown loafers, chukkas | Black sneakers |
 | Shorts | Canvas sneakers, loafers | Espadrilles, boat shoes | Dress shoes, boots |
 
-Interested to hear thoughts — especially if you think any of these combinations are off, or if you have a pant category I should add.
+If you think any of these are wrong, tell me. I'm still learning.
