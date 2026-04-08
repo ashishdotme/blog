@@ -20,6 +20,18 @@ It's not fancy. But it covers everything, it's easy to progress, and I can actua
 - A bench that goes flat and incline
 - Pull-up bar — or just do dumbbell pullovers if you don't have one
 
+## Warm up
+
+I do these before every session. Takes maybe 3 minutes and it's worth it — everything just moves better once you're loosened up.
+
+- Arm rotations
+- Elbow rotations
+- Wrist rotations
+- Hip rotations
+- Head rotations
+
+Nothing fancy. Just get the joints moving through their full range a few times each.
+
 ## The split
 
 Push, pull, legs. Six days a week.
@@ -87,9 +99,3 @@ This happens eventually with most home setups. Here's what I do:
 6. Add a pause at the hardest point of each rep
 
 You can also elevate your heels on squats with a plate or a book. Hits the quads way harder.
-
-## Why this works for me
-
-It covers pressing, rowing, overhead work, squatting, hinging, and single-leg stuff. All the patterns you'd want. And the equipment footprint is tiny.
-
-But honestly the main reason I like it is that it's boring in a good way. I don't have to think about what to do each day. I just show up and run through the list. A plan you actually do consistently beats a perfect program you keep skipping.
