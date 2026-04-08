@@ -6,8 +6,6 @@ topic: Life
 tags:
   - fitness
   - workout
-  - training
-  - home-gym
 ---
 
 I've been running this routine for a while now and it's the one I keep coming back to. Adjustable dumbbells, a bench, and a pull-up bar. That's it.
