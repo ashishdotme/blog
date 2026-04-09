@@ -1,7 +1,7 @@
 ---
 title: My outfit library
 slug: my-outfit-library
-date: "2026-04-02"
+date: "2026-04-09"
 topic: Life
 tags:
   - styling
@@ -10,21 +10,20 @@ tags:
   - wardrobe
 ---
 
-I spent way too long last month putting together a visual outfit library. Probably 15 hours across a couple weekends, which is embarrassing to admit, but I got really into it. Posting it here because I think the format might be useful and because I want to know if any of these combinations are actually bad.
+I spent about 15 hours over a couple of weekends putting together a visual outfit library. It's a bit embarrassing to admit, but I got really into it. I'm posting it here because the format might be useful.
 
-A bit about me: I'm 31, work in tech, and almost never need to dress formally. Two years ago I was wearing the same black tee and joggers to everything, including dates (not great). A friend dragged me to Nordstrom Rack and I bought a navy blazer on impulse. That was the gateway drug. I started reading Permanent Style, lurking on r/malefashionadvice, watching way too many Tim Dessaint videos, and now here I am making spreadsheets about pants.
+I'm 33, work in tech, and almost never need to dress formally. Two years ago, I wore the same black T-shirt and jeans everywhere. Then a friend dragged me to Massimo Dutti, and I bought a suede jacket on impulse. That was the gateway drug. I started reading Permanent Style, lurking on r/malefashionadvice, and watching far too many YouTube videos. Now I make spreadsheets about trousers.
 
-I like the semi-casual end of things. Smart enough that it looks like I thought about it, relaxed enough that I'm not the weird overdressed guy at a coffee shop. I don't own a suit and probably should, but that's a problem for later.
+I like the semi-casual end of the spectrum, polished enough to look intentional, relaxed enough that I don't seem overdressed at a coffee shop. I don't own a suit, and I probably should, but that's a problem for later.
 
-One thing that changed everything for me: I stopped thinking about shirts first and started thinking about pants first. Pick the pants, figure out how formal you want to be, then choose a top and shoes that fit. It sounds obvious but it killed about 80% of the "I have nothing to wear" feeling. That's why everything below is organized by pant type. It's just how I get dressed now.
+One change made the biggest difference: I stopped thinking about shirts first and started with trousers. Pick the trousers, decide how formal you want to look, then match a top and shoes. It sounds obvious, but it got rid of about 80% of that "I have nothing to wear" feeling. That's why everything below is organized by trouser type.
 
-I haven't included underwear, socks, or gym clothes. I buy boring Uniqlo basics for all of that and I don't care how I look while deadlifting. This is just the stuff I actually think about when getting dressed.
+I haven't included underwear, socks, or gym clothes. For all of that, I stick to boring Uniqlo basics. I don't care how I look while deadlifting.
 
-I own maybe a third of what's shown here. The rest is aspirational. Some of the bolder choices (the rust sweater, the pink oxford) I'm not totally sure about yet but I think they work.
 
 ## Straight dark blue jeans
 
-The most versatile pant I own. These go with basically everything.
+Most versatile pant I own. Go with basically everything.
 
 <div style="display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:16px;margin:20px 0;">
   <figure style="margin:0;">
@@ -38,6 +37,18 @@ The most versatile pant I own. These go with basically everything.
   <figure style="margin:0;">
     <img src="https://app.ashish.me/assets/straight-dark-blue-grey-sweater.png" alt="Grey crewneck and loafers" style="width:100%;height:auto;display:block;border-radius:12px;" />
     <figcaption style="margin-top:8px;font-size:14px;line-height:1.5;"><strong>Grey Crewneck + Loafers.</strong> Grey crewneck sweater, brown suede loafers.</figcaption>
+  </figure>
+  <figure style="margin:0;">
+    <img src="https://app.ashish.me/assets/straight-dark-blue-charcoal-coat.png" alt="Charcoal overcoat and merino crewneck" style="width:100%;height:auto;display:block;border-radius:12px;" />
+    <figcaption style="margin-top:8px;font-size:14px;line-height:1.5;"><strong>Charcoal Overcoat + Merino Crewneck.</strong> Charcoal wool overcoat, mid-grey merino crewneck, white oxford collar, dark brown chelsea boots.</figcaption>
+  </figure>
+  <figure style="margin:0;">
+    <img src="https://app.ashish.me/assets/straight-dark-blue-navy-peacoat.png" alt="Navy peacoat and cream cable knit" style="width:100%;height:auto;display:block;border-radius:12px;" />
+    <figcaption style="margin-top:8px;font-size:14px;line-height:1.5;"><strong>Navy Peacoat + Cream Cable Knit.</strong> Navy peacoat, cream cable-knit sweater, light blue oxford shirt, dark brown boots.</figcaption>
+  </figure>
+  <figure style="margin:0;">
+    <img src="https://app.ashish.me/assets/straight-dark-blue-brown-suede-trucker.png" alt="Brown suede trucker and charcoal rollneck" style="width:100%;height:auto;display:block;border-radius:12px;" />
+    <figcaption style="margin-top:8px;font-size:14px;line-height:1.5;"><strong>Brown Suede Trucker + Charcoal Rollneck.</strong> Dark brown suede trucker jacket over a charcoal rollneck with dark brown boots.</figcaption>
   </figure>
   <figure style="margin:0;">
     <img src="https://app.ashish.me/assets/straight-dark-blue-leather.png" alt="Black leather jacket and black boots" style="width:100%;height:auto;display:block;border-radius:12px;" />
@@ -65,11 +76,8 @@ The most versatile pant I own. These go with basically everything.
   </figure>
 </div>
 
-I wear these probably four days a week. They hide stains, travel well, and you can wear them to most restaurants without feeling underdressed. If you're starting from scratch, buy these first. Everything else comes after.
 
 ## Baggy dark blue jeans
-
-I bought a pair of these after seeing them everywhere on Instagram. Jury's still out on whether they actually look good on me or if I just wanted them to.
 
 <div style="display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:16px;margin:20px 0;">
   <figure style="margin:0;">
@@ -81,16 +89,27 @@ I bought a pair of these after seeing them everywhere on Instagram. Jury's still
     <figcaption style="margin-top:8px;font-size:14px;line-height:1.5;"><strong>Oversized Hoodie + High Tops.</strong> Grey oversized hoodie and white high-top sneakers.</figcaption>
   </figure>
   <figure style="margin:0;">
+    <img src="https://app.ashish.me/assets/baggy-dark-blue-puffer.png" alt="Black puffer and grey hoodie" style="width:100%;height:auto;display:block;border-radius:12px;" />
+    <figcaption style="margin-top:8px;font-size:14px;line-height:1.5;"><strong>Black Puffer + Grey Hoodie.</strong> Black puffer jacket over a grey hoodie with black chunky boots.</figcaption>
+  </figure>
+  <figure style="margin:0;">
+    <img src="https://app.ashish.me/assets/baggy-dark-blue-quilted-liner.png" alt="Olive quilted liner and cream sweatshirt" style="width:100%;height:auto;display:block;border-radius:12px;" />
+    <figcaption style="margin-top:8px;font-size:14px;line-height:1.5;"><strong>Olive Quilted Liner + Cream Sweatshirt.</strong> Olive quilted liner jacket over a cream sweatshirt with dark brown work boots.</figcaption>
+  </figure>
+  <figure style="margin:0;">
+    <img src="https://app.ashish.me/assets/baggy-dark-blue-shearling-bomber.png" alt="Shearling bomber and black knit" style="width:100%;height:auto;display:block;border-radius:12px;" />
+    <figcaption style="margin-top:8px;font-size:14px;line-height:1.5;"><strong>Shearling Bomber + Black Knit.</strong> Dark brown shearling bomber over a black knit sweater with black leather boots.</figcaption>
+  </figure>
+  <figure style="margin:0;">
     <img src="https://app.ashish.me/assets/baggy-dark-blue-chore.png" alt="Canvas chore coat and work boots" style="width:100%;height:auto;display:block;border-radius:12px;" />
     <figcaption style="margin-top:8px;font-size:14px;line-height:1.5;"><strong>Canvas Chore Coat + Work Boots.</strong> Tan canvas chore coat, white heavyweight tee, and brown work boots.</figcaption>
   </figure>
 </div>
 
-The trick with baggy jeans is you need a fitted or structured top or the whole thing looks like you borrowed someone else's clothes. High rise helps. I've also been rolling the hem which breaks up the volume a bit. Still learning this one honestly.
+You need a fitted or structured top or the whole thing looks like you borrowed someone else's clothes. High rise helps. I've been rolling the hem to break up the volume. The winter version only really works when the puffer, liner, hoodie, or bomber is intentional and the boots are chunky enough to carry the weight.
 
 ## Straight light blue wash jeans
 
-Spring and summer only. I made the mistake of wearing these with a light grey tee once and it looked like I was fading into the background.
 
 <div style="display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:16px;margin:20px 0;">
   <figure style="margin:0;">
@@ -121,13 +140,15 @@ Spring and summer only. I made the mistake of wearing these with a light grey te
     <img src="https://app.ashish.me/assets/straight-light-blue-cream.png" alt="Cream cable knit and tan boots" style="width:100%;height:auto;display:block;border-radius:12px;" />
     <figcaption style="margin-top:8px;font-size:14px;line-height:1.5;"><strong>Cream Cable Knit + Tan Boots.</strong></figcaption>
   </figure>
+  <figure style="margin:0;">
+    <img src="https://app.ashish.me/assets/straight-light-blue-navy-peacoat.png" alt="Navy peacoat and cream fisherman sweater" style="width:100%;height:auto;display:block;border-radius:12px;" />
+    <figcaption style="margin-top:8px;font-size:14px;line-height:1.5;"><strong>Navy Peacoat + Cream Fisherman Sweater.</strong> Navy peacoat over a cream fisherman sweater with dark brown boots.</figcaption>
+  </figure>
 </div>
 
-Light wash reads way more casual than dark. You need a darker or more saturated top or the outfit has no anchor. The denim-on-denim thing (denim jacket + light jeans) works but only if the shades are actually different. Someone on MFA told me "at least two shades apart" and that seems right.
+Light wash reads way more casual than dark, so you need a darker or more saturated top or the outfit has no anchor. Denim-on-denim (denim jacket + light jeans) works but only if the shades are actually different. Someone on MFA told me "at least two shades apart" and that seems right.
 
 ## Baggy light blue wash jeans
-
-90s revival vibes. You need something structured on top or it just looks like laundry day.
 
 <div style="display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:16px;margin:20px 0;">
   <figure style="margin:0;">
@@ -142,13 +163,14 @@ Light wash reads way more casual than dark. You need a darker or more saturated 
     <img src="https://app.ashish.me/assets/baggy-light-blue-skate.png" alt="Graphic tee and skate shoes" style="width:100%;height:auto;display:block;border-radius:12px;" />
     <figcaption style="margin-top:8px;font-size:14px;line-height:1.5;"><strong>Graphic Tee + Skate Shoes.</strong> Oversized graphic tee and skate shoes.</figcaption>
   </figure>
+  <figure style="margin:0;">
+    <img src="https://app.ashish.me/assets/baggy-light-blue-varsity-hoodie.png" alt="Varsity jacket and grey hoodie" style="width:100%;height:auto;display:block;border-radius:12px;" />
+    <figcaption style="margin-top:8px;font-size:14px;line-height:1.5;"><strong>Varsity Jacket + Grey Hoodie.</strong> Navy varsity jacket over a grey hoodie with retro white sneakers.</figcaption>
+  </figure>
 </div>
 
-Weekends only. I wouldn't wear these to anything where I'm trying to be taken seriously. Cuff or stack at the ankle, lean into the vintage thing, and don't fight what they are.
 
 ## Straight black jeans
-
-My number two after dark blue. These were actually my first "nice" jeans purchase (Uniqlo selvedge, $50, still holding up).
 
 <div style="display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:16px;margin:20px 0;">
   <figure style="margin:0;">
@@ -162,6 +184,18 @@ My number two after dark blue. These were actually my first "nice" jeans purchas
   <figure style="margin:0;">
     <img src="https://app.ashish.me/assets/straight-black-olive-bomber.png" alt="Olive bomber and black boots" style="width:100%;height:auto;display:block;border-radius:12px;" />
     <figcaption style="margin-top:8px;font-size:14px;line-height:1.5;"><strong>Olive Bomber + Black Boots.</strong></figcaption>
+  </figure>
+  <figure style="margin:0;">
+    <img src="https://app.ashish.me/assets/straight-black-taupe-cardigan.png" alt="Taupe cardigan and black chelsea boots" style="width:100%;height:auto;display:block;border-radius:12px;" />
+    <figcaption style="margin-top:8px;font-size:14px;line-height:1.5;"><strong>Taupe Cardigan + Black Chelsea Boots.</strong> Taupe shawl-collar cardigan over a black mock-neck knit.</figcaption>
+  </figure>
+  <figure style="margin:0;">
+    <img src="https://app.ashish.me/assets/straight-black-charcoal-topcoat.png" alt="Charcoal topcoat and grey crewneck" style="width:100%;height:auto;display:block;border-radius:12px;" />
+    <figcaption style="margin-top:8px;font-size:14px;line-height:1.5;"><strong>Charcoal Topcoat + Grey Crewneck.</strong> Charcoal wool topcoat over a mid-grey crewneck with black derby boots.</figcaption>
+  </figure>
+  <figure style="margin:0;">
+    <img src="https://app.ashish.me/assets/straight-black-forest-overshirt.png" alt="Forest overshirt and black boots" style="width:100%;height:auto;display:block;border-radius:12px;" />
+    <figcaption style="margin-top:8px;font-size:14px;line-height:1.5;"><strong>Forest Overshirt + Black Boots.</strong> Dark forest wool overshirt over a black mock-neck knit with black leather boots.</figcaption>
   </figure>
   <figure style="margin:0;">
     <img src="https://app.ashish.me/assets/straight-black-turtleneck.png" alt="Black turtleneck and chelsea boots" style="width:100%;height:auto;display:block;border-radius:12px;" />
@@ -181,11 +215,10 @@ My number two after dark blue. These were actually my first "nice" jeans purchas
   </figure>
 </div>
 
-Black jeans read dressier than blue in most situations. They do fade fast though. I ruined my first pair by just tossing them in the wash normally. Now I wash inside-out, cold water, hang dry. Also, I tried brown Chelsea boots with these once and it looked wrong. Stick to black or grey shoes.
+Black jeans read dressier than blue. They fade fast though — I ruined my first pair tossing them in a normal wash.
 
 ## Baggy black jeans
 
-Streetwear. I don't own these yet but my younger cousin wears them constantly and looks great, so they're on the list.
 
 <div style="display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:16px;margin:20px 0;">
   <figure style="margin:0;">
@@ -197,16 +230,26 @@ Streetwear. I don't own these yet but my younger cousin wears them constantly an
     <figcaption style="margin-top:8px;font-size:14px;line-height:1.5;"><strong>Flannel Shirt + Black Boots.</strong> Red-black flannel open over a white tee.</figcaption>
   </figure>
   <figure style="margin:0;">
+    <img src="https://app.ashish.me/assets/baggy-black-shearling.png" alt="Shearling jacket and charcoal hoodie" style="width:100%;height:auto;display:block;border-radius:12px;" />
+    <figcaption style="margin-top:8px;font-size:14px;line-height:1.5;"><strong>Shearling Jacket + Charcoal Hoodie.</strong> Dark brown shearling jacket over a charcoal hoodie and black combat boots.</figcaption>
+  </figure>
+  <figure style="margin:0;">
+    <img src="https://app.ashish.me/assets/baggy-black-quilted-liner.png" alt="Quilted liner and black hoodie" style="width:100%;height:auto;display:block;border-radius:12px;" />
+    <figcaption style="margin-top:8px;font-size:14px;line-height:1.5;"><strong>Quilted Liner + Black Hoodie.</strong> Olive quilted liner jacket over a black hoodie with black combat boots.</figcaption>
+  </figure>
+  <figure style="margin:0;">
+    <img src="https://app.ashish.me/assets/baggy-black-charcoal-puffer.png" alt="Charcoal cropped puffer and cream hoodie" style="width:100%;height:auto;display:block;border-radius:12px;" />
+    <figcaption style="margin-top:8px;font-size:14px;line-height:1.5;"><strong>Charcoal Puffer + Cream Hoodie.</strong> Charcoal cropped puffer over a cream hoodie with black chunky sneakers.</figcaption>
+  </figure>
+  <figure style="margin:0;">
     <img src="https://app.ashish.me/assets/baggy-black-overcoat.png" alt="Cream sweater and black overcoat" style="width:100%;height:auto;display:block;border-radius:12px;" />
     <figcaption style="margin-top:8px;font-size:14px;line-height:1.5;"><strong>Cream Sweater + Black Overcoat.</strong> Oversized cream knit under a long black coat.</figcaption>
   </figure>
 </div>
 
-The all-black thing only works if you mix textures. A chunky knit over a smooth tee, matte boots against coated denim. Otherwise it's just a dark blob. And if the jeans are baggy, the top needs to be intentional or you'll look like you're wearing pajamas.
+All-black only works if you mix textures. Chunky knit over a smooth tee, matte boots against coated denim. Without that it's just a dark blob. And if the jeans are baggy, the top needs to be intentional or it reads pajamas. Shearling, quilted liners, cropped puffers, brushed flannel, heavy hoodies — that's the lane. Sleek minimal layering looks weird with these.
 
 ## Straight khaki chinos
-
-I resisted chinos for years because they reminded me of school uniforms. Turns out they're annoyingly versatile. They go with almost any top color except yellow and gold (unless you want to look like you work at Best Buy).
 
 <div style="display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:16px;margin:20px 0;">
   <figure style="margin:0;">
@@ -220,6 +263,18 @@ I resisted chinos for years because they reminded me of school uniforms. Turns o
   <figure style="margin:0;">
     <img src="https://app.ashish.me/assets/khaki-green-tee.png" alt="Emerald tee and tan boots" style="width:100%;height:auto;display:block;border-radius:12px;" />
     <figcaption style="margin-top:8px;font-size:14px;line-height:1.5;"><strong>Emerald Tee + Tan Boots.</strong></figcaption>
+  </figure>
+  <figure style="margin:0;">
+    <img src="https://app.ashish.me/assets/khaki-peacoat.png" alt="Navy peacoat and cream cable knit" style="width:100%;height:auto;display:block;border-radius:12px;" />
+    <figcaption style="margin-top:8px;font-size:14px;line-height:1.5;"><strong>Navy Peacoat + Cream Cable Knit.</strong> Navy peacoat, cream cable-knit sweater, light blue oxford shirt, dark brown boots.</figcaption>
+  </figure>
+  <figure style="margin:0;">
+    <img src="https://app.ashish.me/assets/khaki-waxed-jacket.png" alt="Waxed jacket and cream henley" style="width:100%;height:auto;display:block;border-radius:12px;" />
+    <figcaption style="margin-top:8px;font-size:14px;line-height:1.5;"><strong>Waxed Jacket + Cream Henley.</strong> Olive waxed jacket over a cream henley with brown leather boots.</figcaption>
+  </figure>
+  <figure style="margin:0;">
+    <img src="https://app.ashish.me/assets/khaki-charcoal-topcoat.png" alt="Charcoal topcoat and burgundy sweater" style="width:100%;height:auto;display:block;border-radius:12px;" />
+    <figcaption style="margin-top:8px;font-size:14px;line-height:1.5;"><strong>Charcoal Topcoat + Burgundy Sweater.</strong> Charcoal wool topcoat over a burgundy lambswool sweater with dark brown boots.</figcaption>
   </figure>
   <figure style="margin:0;">
     <img src="https://app.ashish.me/assets/khaki-blazer.png" alt="Blue dress shirt and navy blazer" style="width:100%;height:auto;display:block;border-radius:12px;" />
@@ -243,11 +298,9 @@ I resisted chinos for years because they reminded me of school uniforms. Turns o
   </figure>
 </div>
 
-The thing that made chinos click for me was pairing them with slightly bolder tops. Navy polo is safe, sure, but the rust knit polo or a pink oxford against khaki? That actually looks like you have taste. Straight or slim-straight fit, not skinny. Nobody needs skinny chinos.
 
 ## Straight off-white linen pants
 
-Don't own these yet. Entirely aspirational. But every time I see someone wearing off-white linen pants with a navy tee I think "yeah, that's it." Probably pulling the trigger this summer.
 
 <div style="display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:16px;margin:20px 0;">
   <figure style="margin:0;">
@@ -280,11 +333,10 @@ Don't own these yet. Entirely aspirational. But every time I see someone wearing
   </figure>
 </div>
 
-Linen wrinkles. That's the whole thing with linen, you just accept it. Off-white is easier than pure white because you don't look like a cruise ship entertainer. Fit matters a lot here though, too much volume and it stops looking intentional. Also don't wear a pure white top with these. The slight tone difference between white and off-white just looks like you failed at matching.
+Linen wrinkles. That's the whole thing with linen — you just accept it. Off-white is easier than pure white because you don't look like a cruise ship entertainer. Fit matters here though. Too much volume and it stops looking intentional. And don't wear a pure white top with these. The slight tone difference between white and off-white just looks like you failed at matching.
 
 ## Straight olive green chinos
 
-These are what I reach for when I'm tired of blue and black but don't want to think too hard. Way more interesting than khaki but just as easy to pair with things.
 
 <div style="display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:16px;margin:20px 0;">
   <figure style="margin:0;">
@@ -298,6 +350,18 @@ These are what I reach for when I'm tired of blue and black but don't want to th
   <figure style="margin:0;">
     <img src="https://app.ashish.me/assets/olive-navy-henley.png" alt="Navy henley and tan loafers" style="width:100%;height:auto;display:block;border-radius:12px;" />
     <figcaption style="margin-top:8px;font-size:14px;line-height:1.5;"><strong>Navy Henley + Tan Loafers.</strong></figcaption>
+  </figure>
+  <figure style="margin:0;">
+    <img src="https://app.ashish.me/assets/olive-charcoal-overcoat.png" alt="Charcoal overcoat and oatmeal rollneck" style="width:100%;height:auto;display:block;border-radius:12px;" />
+    <figcaption style="margin-top:8px;font-size:14px;line-height:1.5;"><strong>Charcoal Overcoat + Oatmeal Rollneck.</strong> Charcoal wool overcoat, oatmeal rollneck sweater, dark brown suede chukkas.</figcaption>
+  </figure>
+  <figure style="margin:0;">
+    <img src="https://app.ashish.me/assets/olive-navy-peacoat.png" alt="Navy peacoat and cream sweater" style="width:100%;height:auto;display:block;border-radius:12px;" />
+    <figcaption style="margin-top:8px;font-size:14px;line-height:1.5;"><strong>Navy Peacoat + Cream Sweater.</strong> Navy peacoat over a cream crewneck sweater with dark brown boots.</figcaption>
+  </figure>
+  <figure style="margin:0;">
+    <img src="https://app.ashish.me/assets/olive-camel-balmacaan.png" alt="Camel balmacaan and navy crewneck" style="width:100%;height:auto;display:block;border-radius:12px;" />
+    <figcaption style="margin-top:8px;font-size:14px;line-height:1.5;"><strong>Camel Balmacaan + Navy Crewneck.</strong> Camel balmacaan over a navy crewneck sweater with dark brown suede boots.</figcaption>
   </figure>
   <figure style="margin:0;">
     <img src="https://app.ashish.me/assets/olive-chore-coat.png" alt="Tan chore coat and work boots" style="width:100%;height:auto;display:block;border-radius:12px;" />
@@ -317,11 +381,10 @@ These are what I reach for when I'm tired of blue and black but don't want to th
   </figure>
 </div>
 
-Olive + burgundy + cream might be my favorite combination in this whole thing. Haven't actually worn it yet (don't own the burgundy crewneck) but in my head it's incredible. Olive also just goes with navy, camel, rust, white. Three season pant, easy. The only color I'd avoid is bright green because then you look like a tree.
+Olive + burgundy + cream might be my favorite combination in this whole thing. Olive just goes with everything — navy, camel, rust, white.
 
 ## Shorts
 
-Not much to say here. 5-7 inch inseam, flat front. I used to wear cargo shorts to everything and I'm trying to make up for lost time.
 
 <div style="display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:16px;margin:20px 0;">
   <figure style="margin:0;">
@@ -350,11 +413,20 @@ Not much to say here. 5-7 inch inseam, flat front. I used to wear cargo shorts t
   </figure>
 </div>
 
-Hem should hit above the knee. Not mid-thigh unless you have the legs for it (I don't). The cargo shorts from before still exist, they just live in the hiking drawer now.
+
+## Winter layering rules
+
+After reading way too many winter-style threads and watching too many layering videos, the same rules kept showing up:
+
+- Start thin. Tee, henley, OCBD, merino crewneck. Two lighter layers under a coat almost always look better than one huge sweater doing all the work.
+- Let the coat decide the mood. Overcoat and peacoat read smarter. Field jacket, chore coat, waxed jacket, puffer read more casual.
+- Texture saves boring colors. Charcoal, navy, olive, cream, black all work better in winter when one thing is chunky, one thing is smooth, and one thing looks a little rough.
+- Boots do a lot of the heavy lifting. Chelsea boots, chukkas, lug-sole derbies, combat boots. Sneakers can work, but boots make cold-weather outfits look finished.
+- One loud thing at a time. Big flannel, rust knit, burgundy sweater, patterned scarf — pick one and let everything else stay quiet.
 
 ## Quick reference
 
-I made these charts for myself because I kept forgetting what goes with what at 7am. Figured I'd include them here too.
+Made these for myself because I kept forgetting what goes with what at 7am.
 
 ### Color pairings
 
@@ -380,4 +452,3 @@ I made these charts for myself because I kept forgetting what goes with what at 
 | Olive chinos | White sneakers | Tan or brown loafers, chukkas | Black sneakers |
 | Shorts | Canvas sneakers, loafers | Espadrilles, boat shoes | Dress shoes, boots |
 
-If you think any of these are wrong, tell me. I'm still learning.
